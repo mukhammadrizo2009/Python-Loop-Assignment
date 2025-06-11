@@ -8,4 +8,4 @@ for i in text:
     if i in letter:
         hisob += 1
         result = hisob
-        print(f"Harflar soni:",result)
+print(f"Harflar soni:",result)
